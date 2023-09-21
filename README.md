@@ -25,5 +25,3 @@
 <a href="https://instagram.com/the_d.i.s.t.r.a.c.t.e.d_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_d.i.s.t.r.a.c.t.e.d_one" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushkedia1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushkedia" height="30" width="40" /></a>
 </p>
-
--->
