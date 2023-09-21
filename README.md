@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤚, I'm Ayush Kedia</h1>
 <h3 align="center">A passionate fullstack developer from India 👨‍💻</h3>
-<img src="" alt = "Ayush"/>
+<img src="https://drive.google.com/file/d/1m4-q__BuvRTXsSsB0kS42yVRZX5H1KAR/view?usp=sharing" alt = "Ayush"/>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijeet-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-kedia" /> </p>
 
