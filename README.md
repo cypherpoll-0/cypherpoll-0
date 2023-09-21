@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/cypherpoll0/)
 
-- 💬 Ask me about **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>**
+- 💬 Ask me about **<img src="https://github.com/cypherpoll-0/cypherpoll-0/assets/77452909/c2e8eb1c-0d1f-4fbe-a5c8-332745d92895" alt="react" width="20" height="20"/>  <img src="https://github.com/cypherpoll-0/cypherpoll-0/assets/77452909/50e9cad3-9119-43a6-8721-ff78c000f1b8" alt="javascript" width="20" height="20"/> <img src="https://github.com/cypherpoll-0/cypherpoll-0/assets/77452909/c61e517c-e82a-4d33-80cd-8e636cc49753" alt="python" width="20" height="20"/>**
 
 - 📫 How to reach me **ayushkedia1990@gmail.com**
 
