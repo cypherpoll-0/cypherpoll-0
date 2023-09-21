@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ayushkedia1990@gmail.com**
 
-- 📄 Know about my experiences [Arijeet Resume](https://drive.google.com/file/d/1M9iOXbAntn0cLQ1jIgnOWDNsSfQwtLdm/view?usp=sharing)
+- 📄 Know about my experiences [Ayush Resume](https://drive.google.com/file/d/1hJE4nl0_UrCaOvCt8-otpZn5P3gu6FkX/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
