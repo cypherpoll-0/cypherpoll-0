@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijeet-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-kedia" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS ⚛️**
+- 🌱 I’m currently learning **Kubernetes ⚛️**
 
 - 👨‍💻 All of my projects are available at [cypherpoll-0](https://ayushkedia.vercel.app)
 
